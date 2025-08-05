@@ -1,0 +1,14 @@
+C:\Users\Bram\Desktop\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.exe
+C:\Users\Bram\Desktop\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.deps.json
+C:\Users\Bram\Desktop\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\Bram\Desktop\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.dll
+C:\Users\Bram\Desktop\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.pdb
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.dll
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\refint\FinanceManagementSystem.dll
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.pdb
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\Bram\Desktop\FinanceManagementSystem\obj\Debug\net8.0\ref\FinanceManagementSystem.dll
