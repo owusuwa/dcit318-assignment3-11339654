@@ -1,0 +1,15 @@
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.exe
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.deps.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.pdb
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.sourcelink.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\refint\SchoolGradingSystem.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.pdb
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\SchoolGradingSystem\obj\Debug\net8.0\ref\SchoolGradingSystem.dll

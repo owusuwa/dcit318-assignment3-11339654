@@ -1,0 +1,6 @@
+Wilfred Pamford (ID: 509): Score = 84, Grade = A
+MAbel Tsukata (ID: 500): Score = 73, Grade = B
+Mawuli Elisha (ID: 181): Score = 91, Grade = A
+Lisborn Pewodie (ID: 222): Score = 62, Grade = C
+Aishatu Muniru (ID: 105): Score = 54, Grade = D
+Menasseh Walker (ID: 203): Score = 15, Grade = F
