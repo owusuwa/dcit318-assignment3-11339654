@@ -1,0 +1,15 @@
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.sourcelink.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
