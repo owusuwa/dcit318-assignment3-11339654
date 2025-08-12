@@ -1,0 +1,5 @@
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\WarehouseInventorySystem\obj\Debug\net8.0\WarehouseInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\WarehouseInventorySystem\obj\Debug\net8.0\WarehouseInventorySystem.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\WarehouseInventorySystem\obj\Debug\net8.0\WarehouseInventorySystem.AssemblyInfo.cs
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\WarehouseInventorySystem\obj\Debug\net8.0\WarehouseInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\WarehouseInventorySystem\obj\Debug\net8.0\WarehouseInventorySystem.sourcelink.json
