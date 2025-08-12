@@ -1,4 +1,37 @@
-﻿public class Patient
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+public class Repository<T>
+{
+    private List<T> items = new List<T>();
+
+    public void Add(T item)
+    {
+        items.Add(item);
+    }
+
+    public List<T> GetAll()
+    {
+        return items;
+    }
+
+    public T? GetById(Func<T, bool> predicate)
+    {
+        return items.FirstOrDefault(predicate);
+    }
+
+    public bool Remove(Func<T, bool> predicate)
+    {
+        var item = items.FirstOrDefault(predicate);
+        if (item != null)
+        {
+            items.Remove(item);
+            return true;
+        }
+        return false;
+    }
+}
+public class Patient
 {
     public int Id { get; set; }
     public string Name { get; set; }
@@ -38,9 +71,9 @@ public class HealthSystemApp
     public void SeedData()
     {
         // Add sample patients
-        _patientRepo.Add(new Patient(1, "John Doe", 30, "Male"));
-        _patientRepo.Add(new Patient(2, "Jane Smith", 25, "Female"));
-        _patientRepo.Add(new Patient(3, "Samuel Brown", 40, "Male"));
+        _patientRepo.Add(new Patient(1, "Jason Carpenter", 30, "Male"));
+        _patientRepo.Add(new Patient(2, "Stephanie Rice", 25, "Female"));
+        _patientRepo.Add(new Patient(3, "Victory Mensah", 60, "Male"));
 
         // Add sample prescriptions
         _prescriptionRepo.Add(new Prescription(1, 1, "Paracetamol", DateTime.Now.AddDays(-2)));
@@ -84,6 +117,27 @@ public class HealthSystemApp
         else
         {
             Console.WriteLine("No prescriptions found for this patient.");
+        }
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+        var app = new HealthSystemApp();
+
+        app.SeedData();
+        app.BuildPrescriptionMap();
+        app.PrintAllPatients();
+
+        Console.Write("\nEnter Patient ID to view prescriptions: ");
+        if (int.TryParse(Console.ReadLine(), out int patientId))
+        {
+            app.PrintPrescriptionsForPatient(patientId);
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid number.");
         }
     }
 }

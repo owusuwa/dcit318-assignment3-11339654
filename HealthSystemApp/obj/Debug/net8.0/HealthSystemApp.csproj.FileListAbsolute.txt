@@ -1,0 +1,15 @@
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.AssemblyInfo.cs
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.sourcelink.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.exe
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.deps.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.runtimeconfig.json
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.pdb
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\refint\HealthSystemApp.dll
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.pdb
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.genruntimeconfig.cache
+C:\Users\Bram\Desktop\dcit318-assignment3-11339654\HealthSystemApp\obj\Debug\net8.0\ref\HealthSystemApp.dll
